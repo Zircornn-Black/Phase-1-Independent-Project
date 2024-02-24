@@ -3,7 +3,7 @@
 Welcome to the Movie Insights project repository, where I analyze movie industry data to provide valuable insights for Microsoft's Video Content division establishment.This README file serves as a guide to understand the contents, goals, and findings of the project.
 
 **Project Overview**
-This analysis aims to support strategic planning for the establishment of a new studio by exploring the dataset (df1);a dictionary with datasets from Box Office Mojo, IMDB, Rotten Tomatoes,TheMovieDB and TheNumbers.The dataset contains movie titles, genres, ratings, domestic and foreign revenues and production details. The goal is to equip the head of Microsoft's Video Content division with actionable insights to make informed decisions regarding the new studio's operations and content creation strategies. 
+This analysis aims to support strategic planning for the establishment of a new studio by exploring the dataset from zippedData (df1);a dictionary with datasets from Box Office Mojo, IMDB, Rotten Tomatoes,TheMovieDB and TheNumbers.The dataset contains movie titles, genres, ratings, domestic and foreign revenues and production details. The goal is to equip the head of Microsoft's Video Content division with actionable insights to make informed decisions regarding the new studio's operations and content creation strategies. 
 
 **Dataset Overview**
 Dataset Overview
